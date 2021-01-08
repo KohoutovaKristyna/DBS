@@ -55,7 +55,6 @@ INSERT INTO Rehab_sestra VALUES (8, 'Ella', 'Tree');
 INSERT INTO Rehab_sestra VALUES (9, 'Emily', 'Steak');
 INSERT INTO Rehab_sestra VALUES (10, 'Camila', 'Lancer');
 
-
 INSERT INTO Rehabilitace VALUES (1,'Knee', 2, 'AA_01_23_44_B', 1);
 INSERT INTO Rehabilitace VALUES (2,'Tigh', 3, 'AB_02_22_44_C', 2);
 INSERT INTO Rehabilitace VALUES (3,'Calf', 1, 'BA_03_21_44_D', 2);
